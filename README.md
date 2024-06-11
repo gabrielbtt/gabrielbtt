@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Batista+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Batista+👋)](https://git.io/typing-svg)
 
   Meu objetivo é desenvolver habilidades que me permitam combinar meus conhecimentos em programação com minha formação em engenharia elétrica. Acredito que a junção dessas áreas possa trazer soluções inovadoras e eficientes.
   
