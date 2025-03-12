@@ -17,10 +17,5 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielbtt&theme=transparent&hide_border=true&show_icons=true&count_private=true" alt="Gabriel Batista github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbtt&theme=transparent&hide_border=true&layout=compact" />
 </div>
-  
-  ## Minhas contribuições
-<div align="center">
-  <img width="50%" src="https://streak-stats.demolab.com/?user=gabrielbtt&theme=transparent&hide_border=true"
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
